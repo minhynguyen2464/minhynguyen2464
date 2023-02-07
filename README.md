@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhynguyen2464&label=Profile%20views&color=0e75b6&style=flat" alt="minhynguyen2464" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhynguyen2464" alt="minhynguyen2464" /></a> </p>
-
 - 🔭 I’m currently working on **Java chat app**
 
 - 🌱 I’m currently learning **Java**
+
+- 🤝 I’m looking for help with **Java**
 
 - 💬 I can help you with **PHP**
 
