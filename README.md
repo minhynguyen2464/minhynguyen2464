@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhynguyen2464&label=Profile%20views&color=0e75b6&style=flat" alt="minhynguyen2464" /> </p>
 
-- 🔭 I’m currently working on **Java chat app**
+- 🔭 I’m currently working on **NodeJS Movie ticket app**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NodeJS**
 
-- 🤝 I’m looking for help with **Java**
+- 🤝 I’m looking for help with **NodeJS**
 
-- 💬 I can help you with **PHP**
+- 💬 I can help you with **NodeJS**
 
 - 📫 How to reach me **minhynguyen2464**
 
