@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhynguyen2464&label=Profile%20views&color=0e75b6&style=flat" alt="minhynguyen2464" /> </p>
 
-- 🔭 I’m currently working on **C/C++ Project**
+- 🔭 I’m currently working on **.**
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **.*
 
-- 👯 I’m looking to collaborate on **C/C++**
+- 👯 I’m looking to collaborate on **.**
 
-- 🤝 I’m looking for help with **C/C++**
+- 🤝 I’m looking for help with **.**
 
-- 💬 Ask me about **react, node, c/c++**
+- 💬 Ask me about **.**
 
 - 📫 How to reach me **minhynguyen0203@gmail.com**
 
